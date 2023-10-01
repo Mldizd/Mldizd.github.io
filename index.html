@@ -30,7 +30,14 @@
 }
 .bold-text {
     font-weight: bold;
-  }
+}
+.contact-section {
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            width: 300px;
+            margin: 0 auto;
+}
 </style>
 </head>
 <body>
@@ -127,6 +134,22 @@ on several cutting-edge projects.
 </ul>
 
 
+<div class="contact-section">
+    <h2>Contact Us</h2>
+    <p>If you have any questions or inquiries, feel free to reach out to us.</p>
+    <form action="contact_process.php" method="post">
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name"><br>
+        
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br>
+        
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="4" cols="30"></textarea><br>
+        
+        <input type="submit" value="Submit">
+    </form>
+</div>
 
 
 <div id="footer">
