@@ -11,7 +11,6 @@ body {
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
-	overflow: hidden; /* Hide overflow to prevent scrollbars */
 }
 
 #layout-menu {
