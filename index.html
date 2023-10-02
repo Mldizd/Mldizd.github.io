@@ -16,18 +16,6 @@
 <link rel="stylesheet" href="jemdoc.css" type="text/css">
 <link rel="stylesheet" href="jemdoc.css" type="text/css">
 <style type="text/css">
-body {
-    margin: 0;
-    overflow: hidden;
-}
-#background-video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    min-width: 100%;
-    min-height: 100%;
-    z-index: -1;
-}
 .auto-style1 {
 	color: blue;
 }
@@ -52,11 +40,7 @@ body {
 }
 </style>
 </head>
-<body>
-<video id="background-video" autoplay loop muted>
-<source src="SyncLissCurve.mp4" type="video/mp4">
-</video>
-	
+<body>	
 <table summary="Table for page layout." id="tlayout">
 <tbody><tr valign="top">
 <td id="layout-menu">
@@ -69,6 +53,17 @@ body {
 </td>
 
 <td id="layout-content">
+<table class="imgtable">
+<tbody>
+	<tr>
+		<td align="center " style="width: 1400px; height: 300px;">
+			<video controls style="width: 1400px; height: 300px;">
+        		<source src="SyncLissCurve.mp4" type="video/mp4">
+			</video>
+		</td>
+	</tr>
+</tbody>
+</table>
 <table class="imgtable">
 <tbody>
 	<tr>
