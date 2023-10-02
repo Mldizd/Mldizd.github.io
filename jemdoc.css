@@ -11,6 +11,7 @@ body {
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
+	overflow: hidden; /* Hide overflow to prevent scrollbars */
 }
 
 #layout-menu {
@@ -364,4 +365,13 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
+}
+
+#background-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%; /* Ensure video covers the entire viewport width */
+  min-height: 100%; /* Ensure video covers the entire viewport height */
+  z-index: -1; /* Place the video behind other elements */
 }
