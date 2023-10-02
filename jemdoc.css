@@ -367,11 +367,3 @@ table.imgtable, table.imgtable td {
     text-align: left;
 }
 
-#background-video {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%; /* Ensure video covers the entire viewport width */
-  min-height: 100%; /* Ensure video covers the entire viewport height */
-  z-index: -1; /* Place the video behind other elements */
-}
