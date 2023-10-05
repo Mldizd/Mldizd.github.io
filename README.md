@@ -1,4 +1,4 @@
-<h2><a href="https://milad-izadi.github.io/synchro-waveforms/">Introduction to the Synchro-Waveforms Repository</a></h2>
+<h2><a href="https://www.synchrowaveforms.com">Introduction to the Synchro-Waveforms Repository</a></h2>
 
 <p>This repository contains the publications on the topic of synchro-waveforms, created my <a href="#bio">Milad Izadi</a>.</p> 
   
