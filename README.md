@@ -30,6 +30,6 @@
 <p>This repository is intended to serve as a resource for researchers and practitioners who are interested in learning more about synchro-waveforms and their applications.</p>
 
 
-<h2>Bio</h2>
+<h3>Bio</h3>
 
 <p>Milad Izadi is a power systems engineer with a passion for synchro-waveforms. He is currently working on developing new applications for synchro-waveforms to improve the reliability and resilience of the power grid.</p>
