@@ -1,4 +1,4 @@
-<h2>Introduction to the Synchro-Waveforms Repository</h2>
+<h2><a href="https://milad-izadi.github.io/synchro-waveforms/">Introduction to the Synchro-Waveforms Repository</a></h2>
 
 <p>This repository contains the first works of Milad Izadi on the topic of synchro-waveforms. Synchro-waveforms are a powerful new technology for monitoring and situational awareness of power systems.</p>
 
