@@ -4,7 +4,13 @@
   
 <p> Synchro-waveforms are a powerful new technology for monitoring and situational awareness of power systems. They are obtained from a new class of smart grid sensors called Waveform Measurement Units (WMUs). WMUs provide precise time-synchronized voltage waveform and current waveform measurements in the time domain. This allows for detailed analysis of the waveshape of the voltage and current at very high resolutions.</p>
 
-<p>WMUs operate at very high reporting rates, such as at 256 samples per cycle, i.e., 15,360 recordings per second. This is much higher than the sampling rate of practically every other smart grid sensor, such as phasor measurement units (PMUs). This results in a large amount of data that requires high-performance computing to analyze.</p>
+<p>WMUs operate at very high reporting rates, such as at 256 samples per cycle, i.e., 15,360 recordings per second. This is much higher than the reporting rate of practically every other smart grid sensors. At
+such high reporting rate, a WMU reports 7,962,624,000 data points per day from voltage and
+current waveforms on three phases. This is an overwhelming amount of data that requires highperformance
+computing to analyze. Further, WMUs use a Global Positioning System (GPS) clock
+to precisely synchronized the sampling of waveforms across different WMUs, enabling precise time
+synchronization of the reported waveforms. The very high reporting rate of WMUs and the fact that we have access to synchro-waveform measurements, can significantly enhance our understanding
+and awareness about the status of the power electric grid and its components.</p>
 
 <p>Synchro-waveforms offer groundbreaking applications in a variety of power system monitoring and situational awareness tasks, including:</p>
 
