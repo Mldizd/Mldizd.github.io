@@ -6,9 +6,9 @@
 
 <p>WMUs operate at very high reporting rates, such as at 256 samples per cycle, i.e., 15,360 recordings per second. This is much higher than the reporting rate of practically every other smart grid sensors. At
 such high reporting rate, a WMU reports 7,962,624,000 data points per day from voltage and
-current waveforms on three phases. This is an overwhelming amount of data that requires highperformance
+current waveforms on three phases. This is an overwhelming amount of data that requires high performance
 computing to analyze. Further, WMUs use a Global Positioning System (GPS) clock
-to precisely synchronized the sampling of waveforms across different WMUs, enabling precise time
+to precisely synchronize the sampling of waveforms across different WMUs, enabling precise time
 synchronization of the reported waveforms. The very high reporting rate of WMUs and the fact that we have access to synchro-waveform measurements, can significantly enhance our understanding
 and awareness about the status of the power electric grid and its components.</p>
 
