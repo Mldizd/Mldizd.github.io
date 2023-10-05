@@ -32,4 +32,16 @@
 
 <h2>Bio</h2>
 
-<p>Milad Izadi is a power systems engineer with a passion for synchro-waveforms. He is currently working on developing new applications for synchro-waveforms to improve the reliability and resilience of the power grid.</p>
+<p>I <i class="font-weight">pioneered</i> the analysis and applications of <a href="https://ieeexplore.ieee.org/abstract/document/9248804" target="_blank"><i>Synchro-Waveforms</i></a> in power systems in 2019.
+I am an enthusiastic power system engineer with over 8 years extensive experience studying power electric systems. 
+I earned my Ph.D. in Electrical Engineering-Power Systems in 2022. I am interested in the intersection of data analysis, machine learning, optimization, and simulation in power systems applications.
+I have also managed and performed interconnection technical studies such as power flow, transient stability, and short circuit studies for 
+load and generation connections into the <a href="https://www.pjm.com/">PJM</a>, <a href="https://www.ercot.com/">ERCOT</a>, 
+<a href="https://www.wecc.org/">WECC</a> power grids. I have collaborated with independent system operators, utilities, national labs, 
+and industrial companies such as <a href="https://www.pjm.com/">PJM</a>, <a href="https://www.ercot.com/">ERCOT</a>, 
+<a href="https://www.ladwp.com/">LADWP</a>, <a href="https://www.pge.com/">PG&E</a>, <a href="https://www.lbl.gov/">LBNL</a>, 
+<a href="https://www.llnl.gov/">LLNL</a>, <a href="https://www.nexteraenergy.com/">NextEra Energy</a>, 
+<a href="https://www.sentientenergy.com/">Sentient Energy</a>, and <a href="https://www.gridbright.com/">GridBright</a> 
+on several cutting-edge projects.
+<p><a href="https://scholar.google.com/citations?user=DdoGj5cAAAAJ&hl=en&oi=ao">Google Scholar</a>  | <a href="https://www.linkedin.com/in/milad-izadi/">LinkedIn</a> | <a href="https://www.researchgate.net/directory/profiles">ResearcherGate</a> | <a href="https://orcid.org/0000-0002-4305-9809">Orchid</a></p>	
+</p>
