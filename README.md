@@ -32,7 +32,8 @@
 
 <h2>Bio</h2>
 
-<p>I <i class="font-weight">pioneered</i> the analysis and applications of <a href="https://ieeexplore.ieee.org/abstract/document/9248804" target="_blank"><i>Synchro-Waveforms</i></a> in power systems in 2019.
+<p>I has started the topic of <a href="https://ieeexplore.ieee.org/abstract/document/9248804" target="_blank"><i>Synchro-Waveforms</i></a> in 2019. Since then, I have made <i color: blue">pioneering</i> contributions towards using synchro-waveform measurements in power systems
+applications,
 I am an enthusiastic power system engineer with over 8 years extensive experience studying power electric systems. 
 I earned my Ph.D. in Electrical Engineering-Power Systems in 2022. I am interested in the intersection of data analysis, machine learning, optimization, and simulation in power systems applications.
 I have also managed and performed interconnection technical studies such as power flow, transient stability, and short circuit studies for 
