@@ -32,7 +32,7 @@
 
 <h2>Bio</h2>
 
-<p>I has started the topic of <a href="https://ieeexplore.ieee.org/abstract/document/9248804" target="_blank"><i>Synchro-Waveforms</i></a> in 2019. Since then, I have made <i>pioneering</i>  contributions towards using synchro-waveform measurements in power systems applications, resulting in eight (8) publications (all first-authored), including 1 patent, 3 journal
+<p>I has started the topic of <a href="https://ieeexplore.ieee.org/abstract/document/9248804" target="_blank"><i>Synchro-Waveforms</i></a> in 2019. Since then, I have made <i>pioneering</i>  contributions towards using synchro-waveform measurements in power systems applications. I have eight (8) publications (all first-authored) in this specific topic, including 1 patent, 3 journal
 papers, 1 book chapter, and 3 conference papers, along with a number of presentations and invited talks. I have now created this repository as a public resource for researchers and practitioners in academia and industry who are interested in learning more about synchro-waveforms and their applications. I also earned my Ph.D. in Electrical Engineering-Power Systems in 2022. I am interested in the intersection of data analysis, machine learning, optimization, and simulation in power systems applications. I have also managed and performed interconnection technical studies such as power flow, transient stability, and short circuit studies for 
 load and generation connections into the <a href="https://www.pjm.com/">PJM</a>, <a href="https://www.ercot.com/">ERCOT</a>, 
 <a href="https://www.wecc.org/">WECC</a> power grids. I have collaborated with independent system operators, utilities, national labs, 
