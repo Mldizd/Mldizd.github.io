@@ -21,7 +21,6 @@ and awareness about the status of the power electric grid and its components.</p
   <li>Network parameter estimation</li>
   <li>Asset monitoring</li>
   <li>Incipient fault detection</li>
-  <li>Inverter-based energy resources monitoring</li>
   <li>Wildfire monitoring</li>
 </ul>
 
