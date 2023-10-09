@@ -26,6 +26,7 @@ and awareness about the status of the power electric grid and its components.</p
   <li>Wildfire monitoring</li>
 </ul>
 
+<h2>What resources do you see in this repository?</h2>
 <p>This repository contains a variety of resources related to synchro-waveforms, including:</p>
 
 <ul>
