@@ -29,7 +29,12 @@ and awareness about the status of the power electric grid and its components.</p
 <p>This repository contains a variety of resources related to synchro-waveforms, including:</p>
 
 <ul>
-  <li>Papers</li>
+  <li>US Patents</li>
+  <li>Journal Papers</li>
+  <li>Book Chapters</li>
+  <li>Dissertations</li>
+  <li>Conference Papers</li>li
+  <li>White Papers</li>
   <li>Presentations</li>
   <li>Talks</li>
 </ul>
