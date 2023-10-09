@@ -1,6 +1,8 @@
 <h2><a href="https://www.synchrowaveforms.com">Synchro-Waveforms Repository</a></h2>
 
-<p>This repository contains the publications on the topic of synchro-waveforms, created my <a href="#bio">Dr. Milad Izadi</a>.</p> 
+<p>This repository contains the publications on the topic of synchro-waveforms, created my <a href="#bio">Dr. Milad Izadi</a>. It is freely accessible to the public and contains a wide range of research outputs, including US patents, journal articles, book chapters, dissertations, white papers, conference papers, and other original scholarly works.</p> 
+
+
   
 <p> Synchro-waveforms are a powerful new technology for monitoring and situational awareness of power systems. They are obtained from a new class of smart grid sensors called Waveform Measurement Units (WMUs). WMUs provide precise time-synchronized voltage waveform and current waveform measurements in the time domain. This allows for detailed analysis of the waveshape of the voltage and current at very high resolutions.</p>
 
