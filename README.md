@@ -33,7 +33,7 @@ and awareness about the status of the power electric grid and its components.</p
   <li>Journal Papers</li>
   <li>Book Chapters</li>
   <li>Dissertations</li>
-  <li>Conference Papers</li>li
+  <li>Conference Papers</li>
   <li>White Papers</li>
   <li>Presentations</li>
   <li>Talks</li>
