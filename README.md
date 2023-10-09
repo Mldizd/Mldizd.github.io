@@ -13,7 +13,7 @@ to precisely synchronize the sampling of waveforms across different WMUs, enabli
 synchronization of the reported waveforms. The very high reporting rate of WMUs and the fact that we have access to synchro-waveform measurements, can significantly enhance our understanding
 and awareness about the status of the power electric grid and its components.</p>
 
-<h2>What are the Applications of Synchro-Waveforms?</h2>
+<h2>What are the applications of Synchro-Waveforms?</h2>
 <p>Synchro-waveforms offer groundbreaking applications in a variety of power system monitoring and situational awareness tasks, including:</p>
 
 <ul>
