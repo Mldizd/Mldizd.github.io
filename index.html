@@ -182,11 +182,31 @@ on several cutting-edge projects.
 	<li>
 	    Milad Izadi and Hamed Mohsenian-Rad, <a href="https://Mldizd.github.io/IMRjTSG2021.pdf" target="_blank">"Synchronous Waveform Measurements to Locate Transient Events and Incipient Faults in Power Distribution Networks,"</a>
 	    in <i>IEEE Trans. on Smart Grid, </i>
-	    vol. 12, no. 5, pp. 4295-4307, September 2021 (The <i class="auto-style3">first journal paper</i>  on the topic of Synchro-Waveforms)
+	    vol. 12, no. 5, pp. 4295-4307, September 2021 (The <i class="auto-style3">first journal paper</i>  on the topic of Synchro-Waveforms) [<span id="citationCount">Fetching citation count...</span>]
 	</li>
 
 </ul>
 
+<!-- Add this script to fetch the citation count -->
+<script>
+    // Function to fetch and update the citation count
+    function updateCitationCount() {
+        // Make a request to fetch the citation count from Google Scholar (you'll need to implement this)
+        // Example: You can use a backend service to scrape Google Scholar and return the citation count
+        // Replace 'YOUR_BACKEND_URL' with the actual URL of your backend service
+        fetch('https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16625750818040412247&as_sdt=5')
+            .then(response => response.json())
+            .then(data => {
+                const citationCountElement = document.getElementById('citationCount');
+                citationCountElement.textContent = `Citations: ${data.citationCount}`;
+            })
+            .catch(error => console.error('Error fetching citation count:', error));
+    }
+
+    // Call the function to fetch and update the citation count when the page loads
+    updateCitationCount();
+</script>
+	
 <h2>Book Chapter on Synchro-waveforms</h2>
 <ul>	
 	<li>Milad Izadi and Hamed Mohsenian-Rad, 
