@@ -52,23 +52,16 @@
 
 
 <form id="contact-form" class="flex flex-col justify-center gap-4 rounded-xl border p-5 shadow-xl md:min-h-[50vh] md:p-8" action="https://formspree.io/f/xzblyqzn" method = "post">
-		<input type="hidden" name="full_name" value=""/>
-		<fieldset class="flex flex-col gap-1.5">
-		    <label class="cursor-pointer text-sm text-text-muted" for=":Ralbb6da:">Name</label>
-		    <input class="rounded-lg border px-3 py-2 ring-offset-1 ring-accent/50 focus:outline-none focus:ring disabled:text-text-muted disabled:bg-neutral-50" id=":Ralbb6da:" type="text" placeholder="Your Name" required="" name="name"/>
-		</fieldset>
-		<fieldset class="flex flex-col gap-1.5">
-		    <label class="cursor-pointer text-sm text-text-muted" for=":Relbb6da:">Email</label>
-		    <input class="rounded-lg border px-3 py-2 ring-offset-1 ring-accent/50 focus:outline-none focus:ring disabled:text-text-muted disabled:bg-neutral-50" id=":Relbb6da:" type="email" placeholder="email@example.com" required="" name="email"/>
-		</fieldset>
-		<fieldset class="flex flex-col gap-1.5">
-		    <label class="cursor-pointer text-sm text-text-muted" for=":Rilbb6da:">Message</label>
-		    <textarea class="rounded-lg border px-3 py-2 ring-offset-1 ring-accent/50 focus:outline-none focus:ring disabled:text-text-muted disabled:bg-neutral-50" id=":Rilbb6da:" name="message" rows="5" placeholder="Tell us more about your project or inquiry." required=""></textarea>
-		</fieldset>
-		<button class="flex select-none items-center justify-center rounded-full font-medium disabled:cursor-not-allowed rounded-lg bg-accent px-3 py-2 text-white ring-accent/50 ring-offset-1 transition-colors focus:outline-none focus:ring enabled:hover:bg-accent/80 disabled:bg-accent/80 disabled:text-white/50" type="submit">
-		    <span class="inline-block truncate">Submit</span>
-		</button>
-		<p class="text-sm"></p>
+<label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
 
 <div></div>
